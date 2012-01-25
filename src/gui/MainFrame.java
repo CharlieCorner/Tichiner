@@ -19,7 +19,6 @@ import java.util.List;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
-import twitterComm.Refresher;
 import twitterComm.TwitterConn;
 import winterwell.jtwitter.Twitter;
 import winterwell.jtwitter.Twitter.Message;
@@ -27,7 +26,7 @@ import winterwell.jtwitter.Twitter.Status;
 
 /**
  *
- * @author Rivenordel
+ * @author Charles Corner
  */
 public class MainFrame extends javax.swing.JFrame {
 
